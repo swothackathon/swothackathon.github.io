@@ -45,12 +45,11 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 <tr> 
 <td> 12:30 - 1:00 PM </td>
 <td>REFRESHMENT BREAK</td>
-<td></td>
 </tr>
 
 <tr> 
 <td> 1:00 - 1:30 PM </td>
-  <td>Overview of remaining EA projects <strong>(2 EAs)</strong></td>
+<td>Overview of remaining EA projects <strong>(2 EAs)</strong></td>
 </tr>
 
 <tr>

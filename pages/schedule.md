@@ -27,52 +27,44 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 </tr>
 
 <tr>
-<td>8:30 - 10:00 AM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/data-access">ICESat-2 data access</a> - <a href="https://www.youtube.com/watch?v=KFdGBxkne1U"> video </a></td>
-<td>Amy Steiker</td>
-</tr>
-
-<tr>
-<td>10:00 - 10:30 AM</td>
-<td>Coffee Break</td>
-<td></td>
-</tr>
-
-<tr> 
-<td> 10:30 - 11:15 AM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Introduction to HDF5 data model</a> - <a href="https://www.youtube.com/watch?v=bl1Dm6a0-B8"> video </a></td>
-<td>Fernando Paolo</td>
-</tr>
-
-
-<tr> 
-<td> 11:15 - 12:00 PM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a> - <a href="https://www.youtube.com/watch?v=CngLak9-ULE"> video </a></td>
-<td>Ben Smith</td>
-</tr>
-
-
-<tr>
-<td>12:00 - 1:00 PM</td>
-<td>Lunch</td>
+<td>8:30 - 9:00 AM</td>
+<td>Overview of Hackathon objectives</td>
 <td></td>
 </tr>
 
 <tr>
-<td>1:00 - 1:30 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a> - <a href="https://www.youtube.com/watch?v=8uXzHo6Ytok"> video </a></td>
-<td>Ben Smith</td>
+<td>9:00 AM - 12:30 PM</td>
+<td>
+  <ul>
+    <li>Introduce Organizers EAs; Introduce hackathon helpers from UW, CNES, EA etc.
+    Show map of each EA and click on ‘current progress’ tab on the SWOT website.</li>
+    <li>Overview of each EA project; Each EA has to articulate where exactly the project is ‘stuck’ or
+moving at in terms of data, coding and software development (15 mins each; 5 mins for overview and 10 mins for specific hurdles they face)</li>
+  </ul>
+</td>
+<td>9 EAs</td>
+</tr>
+
+<tr> 
+<td>12:30 - 1:00 PM</td>
+<td>REFRESHMENT BREAK</td>
+<td></td>
+</tr>
+
+<tr> 
+<td> 1:00 - 1:30 PM </td>
+<td>Overview of remaining EA projects</td>
+<td>2 EAs</td>
 </tr>
 
 
 <tr>
-<td>2:30 - 5:00 PM</td>
-<td>Project Work (coffee break at 3 PM)</td>
-<td>Everyone</td>
+<td>1:30 - 5:00 PM</td>
+<td>Hands‐on exercise on generating inputs for SWOT simulator (CNES Large scale Simulator)</td>
+<td>Instructor Matt Bonnema</td>
 </tr>
 
 </tbody>
-
 </table>
 
 ### Wednesday

@@ -26,12 +26,12 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 </tr>
 
 <tr>
-<td>8:30 - 9:00 AM</td>
+<td> 8:30 - 9:00 AM </td>
 <td>Overview of Hackathon objectives</td>
 </tr>
 
 <tr>
-<td>9:00 AM - 12:30 PM</td>
+<td> 9:00 AM - 12:30 PM </td>
 <td>
   <ul>
     <li>Introduce Organizers EAs; Introduce hackathon helpers from UW, CNES, EA etc.
@@ -40,11 +40,10 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 moving at in terms of data, coding and software development (15 mins each; 5 mins for overview and 10 mins for specific hurdles they face)<strong>(9 EAs)</strong></li>
   </ul>
 </td>
-<td>9 EAs</td>
 </tr>
 
 <tr> 
-<td>12:30 - 1:00 PM</td>
+<td> 12:30 - 1:00 PM </td>
 <td>REFRESHMENT BREAK</td>
 <td></td>
 </tr>
@@ -55,7 +54,7 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 </tr>
 
 <tr>
-<td>1:30 - 5:00 PM</td>
+<td> 1:30 - 5:00 PM </td>
 <td>Hands‐on exercise on generating inputs for SWOT simulator (CNES Large scale Simulator). Instructor Matt Bonnema</td>
 </tr>
 
@@ -72,17 +71,17 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 </tr>
 
 <tr>
-<td> 8:00 - 8:30 AM</td>
+<td> 8:00 - 8:30 AM </td>
 <td>Hands‐on exercise on reservoir‐river system wrap up</td>
 </tr>
 
 <tr>
-<td>8:30 AM - 12:00 PM</td>
+<td> 8:30 AM - 12:00 PM </td>
 <td>Hands‐on exercise completion. Each EA submits his/her assignment to instructor Matt Bonnema</td>
 </tr>
 
 <tr> 
-<td>12:00 - 1:00 PM</td>
+<td> 12:00 - 1:00 PM </td>
 <td>In parallel
   <ol>
     <li>REFRESHMENT BREAK</li>
@@ -92,12 +91,12 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 </tr>
 
 <tr>
-<td>1:00 - 2:30 PM</td>
+<td> 1:00 - 2:30 PM </td>
 <td>Introduction to SWOT CNES Hydrology Simulator, LOCNES and RiverObs (Damien or Claire)</td>
 </tr>
 
 <tr>
-<td>2:30 - 3:00 PM</td>
+<td> 2:30 - 3:00 PM </td>
 <td>SWOT CNES Hydrology Simulator from the EA perspective – overview by NASA SPoRT Nicholas on the simulator, likely issues, best practices. Overview of the tutorial.</td>
 </tr>
 
@@ -107,14 +106,8 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 </tr>
 
 <tr>
-<td>3:00 - 5:00 PM</td>
+<td> 3:00 - 5:00 PM </td>
 <td>Recap of hurdles faced by each EA on data handling, coding, and software development (towards the press release). EAs begin to work on their project with hackers to solve the issues</td>
-</tr>
-
-<tr>
-<td>2:30 - 5:00 PM</td>
-<td>Project Work (Coffee break at 3 PM)</td>
-<td>Everyone</td>
 </tr>
 
 </tbody>

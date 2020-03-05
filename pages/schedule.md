@@ -23,13 +23,11 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <th>Time</th>
 <th>Event</th>
-<th>Instructors</th>
 </tr>
 
 <tr>
 <td>8:30 - 9:00 AM</td>
 <td>Overview of Hackathon objectives</td>
-<td></td>
 </tr>
 
 <tr>
@@ -39,7 +37,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
     <li>Introduce Organizers EAs; Introduce hackathon helpers from UW, CNES, EA etc.
     Show map of each EA and click on ‘current progress’ tab on the SWOT website.</li>
     <li>Overview of each EA project; Each EA has to articulate where exactly the project is ‘stuck’ or
-moving at in terms of data, coding and software development (15 mins each; 5 mins for overview and 10 mins for specific hurdles they face)</li>
+moving at in terms of data, coding and software development (15 mins each; 5 mins for overview and 10 mins for specific hurdles they face)<strong>(9 EAs)</strong></li>
   </ul>
 </td>
 <td>9 EAs</td>
@@ -53,15 +51,12 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 
 <tr> 
 <td> 1:00 - 1:30 PM </td>
-<td>Overview of remaining EA projects</td>
-<td>2 EAs</td>
+  <td>Overview of remaining EA projects <strong>(2 EAs)</strong></td>
 </tr>
-
 
 <tr>
 <td>1:30 - 5:00 PM</td>
-<td>Hands‐on exercise on generating inputs for SWOT simulator (CNES Large scale Simulator)</td>
-<td>Instructor Matt Bonnema</td>
+<td>Hands‐on exercise on generating inputs for SWOT simulator (CNES Large scale Simulator). Instructor Matt Bonnema</td>
 </tr>
 
 </tbody>
@@ -74,59 +69,46 @@ moving at in terms of data, coding and software development (15 mins each; 5 min
 <tr>
 <th>Time</th>
 <th>Event</th>
-<th>Instructors</th>
 </tr>
 
 <tr>
-<td> 8:30 - 10:00 AM</td>
-<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Jupyter revisited: collaboration and reproducibility</a> - <a href="https://www.youtube.com/watch?v=puJa6fnjrEo"> video </a></td>
-<td> Fernando Perez</td>
+<td> 8:00 - 8:30 AM</td>
+<td>Hands‐on exercise on reservoir‐river system wrap up</td>
 </tr>
 
 <tr>
-<td>10:00 - 10:30 AM</td>
-<td>Coffee Break</td>
-<td></td>
+<td>8:30 AM - 12:00 PM</td>
+<td>Hands‐on exercise completion. Each EA submits his/her assignment to instructor Matt Bonnema</td>
 </tr>
 
 <tr> 
-<td> 10:30 - 11:15 AM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of ICESat-2 data files</a> - <a href="https://www.youtube.com/watch?v=X4Mks9Wrtd0"> video </a></td>
-<td>Fernando Paolo</td>
-</tr>
-
-<tr>
-<td>11:15 - 12:00 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/gridding">Gridding and filtering of elevation changes</a> - <a href="https://www.youtube.com/watch?v=Ng7Dgstzsek"> video </a></td>
-<td>Johan Nilsson</td>
-</tr>
-
-<tr>
 <td>12:00 - 1:00 PM</td>
-<td>Lunch</td>
+<td>In parallel
+  <ol>
+    <li>REFRESHMENT BREAK</li>
+    <li><em>EAs will be introduced to a Global Reservoir Assessment Tool (RAT) at http://www.satellitedams.net by Nishan Biswas (30 mins). This will be a working refreshment.</em><li>
+  </ol>
+  </td>
+</tr>
+
+<tr>
+<td>1:00 - 2:30 PM</td>
+<td>Introduction to SWOT CNES Hydrology Simulator, LOCNES and RiverObs (Damien or Claire)</td>
+</tr>
+
+<tr>
+<td>2:30 - 3:00 PM</td>
+<td>SWOT CNES Hydrology Simulator from the EA perspective – overview by NASA SPoRT Nicholas on the simulator, likely issues, best practices. Overview of the tutorial.</td>
+</tr>
+
+<tr>
 <td></td>
+<td>BREAK - 10 minutes</td>
 </tr>
 
 <tr>
-<td>1:00 - 1:30 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/gridding">Gridding and filtering of elevation changes</a></td>
-<td>Johan Nilsson</td>
-</tr>
-
-<tr>
-<td>1:30 - 2:30 PM</td>
-<td>Parallel Sessions
-<ol>
-<li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea Ice 1: Sea Ice Free Board Products</a> - <a href="https://www.youtube.com/watch?v=NejNIh70dlc"> video </a></li>
-<li>Land Ice 1: Land Elevation Change Products</li>
-</ol>
-</td>
-<td>
-<ol>
-<li>Alek Petty</li>
-<li>Ben Smith</li>
-</ol>
-</td>
+<td>3:00 - 5:00 PM</td>
+<td>Recap of hurdles faced by each EA on data handling, coding, and software development (towards the press release). EAs begin to work on their project with hackers to solve the issues</td>
 </tr>
 
 <tr>

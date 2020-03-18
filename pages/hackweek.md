@@ -2,7 +2,7 @@
 layout: page
 title: What is a hackweek?
 permalink: hackweek.html
-description: Learn about "hackweek".
+description: Learn about "hackweek"
 ---
 
 [The hackweek model](http://www.pnas.org/content/115/36/8872.short) has emerged within the data

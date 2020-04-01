@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageDISABLE
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description: List of contributors to IS2HackWeek

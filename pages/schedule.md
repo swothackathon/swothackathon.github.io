@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageDISABLED
 title: Schedule
 permalink: schedule.html
 description: Schedule

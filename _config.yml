@@ -1,9 +1,9 @@
 # Site settings
-title: SWOT Hackathon 2020
+title: SWOT Virtual Hackathon 2020
 email: swothackathon@gmail.com
 description: Workshop On SWOT Datasets <br>
              University of Washington <br>
-             May 26-29, 2020 <br> 
+             May 26 - June 1, 2020 <br> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 

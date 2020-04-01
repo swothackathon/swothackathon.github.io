@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageDISABLED
 title: What is a hackweek?
 permalink: hackweek.html
 description: Learn about "hackweek"
